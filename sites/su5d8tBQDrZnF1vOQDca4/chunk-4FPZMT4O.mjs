@@ -1,0 +1,2 @@
+function o(n,s){return{description:"\u4EE5\u52A1\u5B9E\u7684\u6001\u5EA6\u5B8C\u6210\u8BBE\u8BA1\uFF0C\u800C\u4E0D\u662F\u7528\u8BBE\u8BA1\u518D\u53BB\u5305\u88C5\u8BBE\u8BA1",favicon:"https://framerusercontent.com/assets/JaSjbC5cmG7za2AnmG8qBbObdQ.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/lZ7EYGLDcTyk1QMElLTBx00LXhM.png",title:"WOo.oONCE-Studio"}}export{o as a};
+//# sourceMappingURL=chunk-4FPZMT4O.mjs.map
